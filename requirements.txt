@@ -1,0 +1,4 @@
+# File: requirements.txt
+# Purpose: Specify dependencies for the to-do list application.
+
+tk==0.1.0

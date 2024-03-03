@@ -1,0 +1,26 @@
+/* File: styles.css */
+/* Purpose: Styling for the to-do list application */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.entry {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.button {
+    padding: 8px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.listbox {
+    width: 250px;
+    height: 150px;
+    overflow-y: scroll;
+}
